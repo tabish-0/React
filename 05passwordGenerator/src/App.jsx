@@ -44,7 +44,7 @@ function App() {
 
         <div className='flex shadow rounded-lg overflow-hidden mb-4'>
           <input type="text" value={password} className='outline-none w-full py-1 px-3 rounded-md' placeholder='Password' readOnly ref={passwordRef} />
-          <button onClick={copyPasswordToClipboard} className='outline-none rounded-md bg-blue-700 text-white py-1 px-3 py-0.5 shrink-0 ml-1 focus:bg-green-700 hover:focus:bg-green-800 hover:scale-x-105'>Copy</button>
+          <button onClick={copyPasswordToClipboard} className='outline-none rounded-md bg-blue-700 text-white px-3 py-1 shrink-0 ml-1 focus:bg-green-700 hover:focus:bg-green-800 hover:scale-x-105'>Copy</button>
         </div>
 
         <div className='flex text-sm gap-x-2'>
