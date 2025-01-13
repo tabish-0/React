@@ -1,9 +1,8 @@
 import React from 'react'
 import { useSelector, useDispatch } from 'react-redux'
 import {removeTodo} from '../features/todo/todoSlice'
-import { use } from 'react'
 
-function Todos() {
+function Todos({ setInput, setIsEditing, setEditId }) {
     const todos = useSelector(state => state.todos)
     const dispatch = useDispatch()
 
@@ -17,8 +16,19 @@ function Todos() {
             key={todo.id}
           >
             <div className='text-white'>{todo.textValue}</div>
-            <button
-             onClick={() => dispatch(removeTodo(todo.id))}
+            <div className="flex space-x-2">
+              <button
+                onClick={() => {
+                  setInput(todo.textValue)
+                  setIsEditing(true)
+                  setEditId(todo.id) 
+                }}
+                className="text-white bg-blue-500 border-0 py-1 px-4 focus:outline-none hover:bg-blue-600 rounded"
+              >
+                Edit
+              </button>
+              <button
+              onClick={() => dispatch(removeTodo(todo.id))}
               className="text-white bg-red-500 border-0 py-1 px-4 focus:outline-none hover:bg-red-600 rounded text-md"
             >
               <svg
@@ -36,6 +46,7 @@ function Todos() {
                 />
               </svg>
             </button>
+            </div>
           </li>
         ))}
       </ul>
