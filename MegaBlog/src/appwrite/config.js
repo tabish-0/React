@@ -93,6 +93,11 @@ export class Service {
     // file upload service
     async uploadFile(file){
         try {
+
+            // if (!(file instanceof File)) {
+            //     throw new Error("Invalid file object");
+            // }
+
             return await this.bucket.createFile(
                 conf.appwriteBucketId,
                 ID.unique(),
