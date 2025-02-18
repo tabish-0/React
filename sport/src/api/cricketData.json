@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "countryName": "World",
+      "teamName": "ICC World XI",
+      "captain": "Varies",
+      "worldCupsWon": "Not Applicable",
+      "interestingFact": "The ICC World XI is a team composed of top international players from different countries for exhibition matches."
+    },
+    {
+      "id": 2,
+      "countryName": "India",
+      "teamName": "India",
+      "captain": "Rohit Sharma",
+      "worldCupsWon": 2,
+      "interestingFact": "India won its first Cricket World Cup in 1983 under Kapil Dev’s captaincy and again in 2011 under MS Dhoni."
+    },
+    {
+      "id": 3,
+      "countryName": "Australia",
+      "teamName": "Australia",
+      "captain": "Pat Cummins",
+      "worldCupsWon": 6,
+      "interestingFact": "Australia has won the most Cricket World Cups, with titles in 1987, 1999, 2003, 2007, 2015, and 2023."
+    },
+    {
+      "id": 4,
+      "countryName": "England",
+      "teamName": "England",
+      "captain": "Jos Buttler",
+      "worldCupsWon": 1,
+      "interestingFact": "England won its first ICC Cricket World Cup in 2019, defeating New Zealand in a thrilling Super Over finish."
+    },
+    {
+      "id": 5,
+      "countryName": "Pakistan",
+      "teamName": "Pakistan",
+      "captain": "Babar Azam",
+      "worldCupsWon": 1,
+      "interestingFact": "Pakistan won the Cricket World Cup in 1992 under the leadership of Imran Khan."
+    },
+    {
+      "id": 6,
+      "countryName": "South Africa",
+      "teamName": "South Africa",
+      "captain": "Temba Bavuma",
+      "worldCupsWon": 0,
+      "interestingFact": "South Africa is often referred to as 'chokers' in World Cups due to their near-miss performances."
+    },
+    {
+      "id": 7,
+      "countryName": "New Zealand",
+      "teamName": "New Zealand",
+      "captain": "Kane Williamson",
+      "worldCupsWon": 0,
+      "interestingFact": "New Zealand reached the World Cup final in 2015 and 2019 but finished as runners-up both times."
+    },
+    {
+        "id": 11,
+        "countryName": "Afghanistan",
+        "teamName": "Afghanistan",
+        "captain": "Hashmatullah Shahidi",
+        "worldCupsWon": 0,
+        "interestingFact": "Afghanistan played its first Cricket World Cup in 2015 and has rapidly grown as a competitive cricketing nation."
+    },
+    {
+      "id": 9,
+      "countryName": "Sri Lanka",
+      "teamName": "Sri Lanka",
+      "captain": "Dasun Shanaka",
+      "worldCupsWon": 1,
+      "interestingFact": "Sri Lanka won the 1996 Cricket World Cup under the captaincy of Arjuna Ranatunga."
+    }
+]
+  

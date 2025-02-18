@@ -1,0 +1,299 @@
+[
+  {
+    "logo": "https://seeklogo.com/images/B/board-of-control-for-cricket-in-india-logo-7F557DA7A9-seeklogo.com.png",
+    "name": "India",
+    "ranking": 1,
+    "captain": "Rohit Sharma",
+    "matches": 1035,
+    "worldCupWins": 2,
+    "region": "Asia"
+  },
+  {
+    "logo": "https://images.seeklogo.com/logo-png/37/2/new-zealand-cricket-logo-png_seeklogo-370601.png",
+    "name": "New Zealand",
+    "ranking": 5,
+    "captain": "Kane Williamson",
+    "matches": 900,
+    "worldCupWins": 0,
+    "region": "Oceania"
+  },
+  {
+    "logo": "https://seeklogo.com/images/S/south-africa-national-cricket-team-logo-EBB97CF46F-seeklogo.com.png",
+    "name": "South Africa",
+    "ranking": 6,
+    "captain": "Temba Bavuma",
+    "matches": 810,
+    "worldCupWins": 0,
+    "region": "Africa"
+  },
+  {
+    "logo": "https://seeklogo.com/images/E/england-cricket-team-logo-A969643AEC-seeklogo.com.png",
+    "name": "England",
+    "ranking": 3,
+    "captain": "Jos Buttler",
+    "matches": 1021,
+    "worldCupWins": 1,
+    "region": "Europe"
+  },
+  {
+    "logo": "https://images.seeklogo.com/logo-png/10/2/pakistan-cricket-team-logo-png_seeklogo-105429.png?v=1956248503556680112",
+    "name": "Pakistan",
+    "ranking": 4,
+    "captain": "Babar Azam",
+    "matches": 950,
+    "worldCupWins": 1,
+    "region": "Asia"
+  },
+  {
+    "logo": "https://seeklogo.com/images/C/cricket-australia-logo-B7F9D8E95A-seeklogo.com.png",
+    "name": "Australia",
+    "ranking": 2,
+    "captain": "Pat Cummins",
+    "matches": 980,
+    "worldCupWins": 6,
+    "region": "Oceania"
+  },
+  {
+    "logo": "https://seeklogo.com/images/S/sri-lanka-cricket-logo-4400B813FF-seeklogo.com.png",
+    "name": "Sri Lanka",
+    "ranking": 7,
+    "captain": "Dasun Shanaka",
+    "matches": 850,
+    "worldCupWins": 1,
+    "region": "Asia"
+  },
+  {
+    "logo": "https://seeklogo.com/images/W/west-indies-cricket-team-logo-49A5C6EAE7-seeklogo.com.png",
+    "name": "West Indies",
+    "ranking": 8,
+    "captain": "Shai Hope",
+    "matches": 820,
+    "worldCupWins": 2,
+    "region": "Americas"
+  },
+  {
+    "logo": "https://images.seeklogo.com/logo-png/26/2/bangladesh-national-cricket-team-logo-png_seeklogo-261167.png?v=1956227339272908560",
+    "name": "Bangladesh",
+    "ranking": 9,
+    "captain": "Shakib Al Hasan",
+    "matches": 780,
+    "worldCupWins": 0,
+    "region": "Asia"
+  },
+  {
+    "logo": "https://seeklogo.com/images/A/acb-afghanistan-cricket-board-logo-CF20AE82BA-seeklogo.com.png",
+    "name": "Afghanistan",
+    "ranking": 10,
+    "captain": "Hashmatullah Shahidi",
+    "matches": 250,
+    "worldCupWins": 0,
+    "region": "Asia"
+  },
+  {
+    "logo": "https://seeklogo.com/images/I/ireland-cricket-team-logo-87686EB012-seeklogo.com.png",
+    "name": "Ireland",
+    "ranking": 11,
+    "captain": "Andrew Balbirnie",
+    "matches": 200,
+    "worldCupWins": 0,
+    "region": "Europe"
+  },
+  {
+    "logo": "https://seeklogo.com/images/N/netherlands-logo-89229F821C-seeklogo.com.png",
+    "name": "Netherlands",
+    "ranking": 12,
+    "captain": "Scott Edwards",
+    "matches": 190,
+    "worldCupWins": 0,
+    "region": "Europe"
+  },
+  {
+    "logo": "https://seeklogo.com/images/Z/zimbabwe-national-cricket-team-logo-93A04E0D4A-seeklogo.com.png",
+    "name": "Zimbabwe",
+    "ranking": 13,
+    "captain": "Craig Ervine",
+    "matches": 550,
+    "worldCupWins": 0,
+    "region": "Africa"
+  },
+  {
+    "logo": "https://seeklogo.com/images/N/namibian-rugby-union-team-logo-CE8BCE931C-seeklogo.com.png",
+    "name": "Namibia",
+    "ranking": 14,
+    "captain": "Gerhard Erasmus",
+    "matches": 90,
+    "worldCupWins": 0,
+    "region": "Africa"
+  },
+  {
+    "logo": "https://cdn.brandfetch.io/idJchI1zhf/w/194/h/275/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B",
+    "name": "United Arab Emirates",
+    "ranking": 15,
+    "captain": "Muhammad Waseem",
+    "matches": 120,
+    "worldCupWins": 0,
+    "region": "Asia"
+  },
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/ScotlandMenCricketLogo.svg/800px-ScotlandMenCricketLogo.svg.png",
+    "name": "Scotland",
+    "ranking": 16,
+    "captain": "Richie Berrington",
+    "matches": 130,
+    "worldCupWins": 0,
+    "region": "Europe"
+  },
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/en/6/63/Logo_of_Oman_Cricket.png",
+    "name": "Oman",
+    "ranking": 17,
+    "captain": "Zeeshan Maqsood",
+    "matches": 100,
+    "worldCupWins": 0,
+    "region": "Asia"
+  },
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cricket_Association_of_Nepal_logo.svg/1280px-Cricket_Association_of_Nepal_logo.svg.png",
+    "name": "Nepal",
+    "ranking": 18,
+    "captain": "Rohit Paudel",
+    "matches": 110,
+    "worldCupWins": 0,
+    "region": "Asia"
+  },
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4f/Usaca_logo.png",
+    "name": "United States",
+    "ranking": 19,
+    "captain": "Monank Patel",
+    "matches": 80,
+    "worldCupWins": 0,
+    "region": "Americas"
+  },
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c6/Cricket_PNG_logo.png",
+    "name": "Papua New Guinea",
+    "ranking": 20,
+    "captain": "Assad Vala",
+    "matches": 75,
+    "worldCupWins": 0,
+    "region": "Oceania"
+  },
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1280px-Flag_of_Hong_Kong.svg.png",
+    "name": "Hong Kong",
+    "ranking": 21,
+    "captain": "Nizakat Khan",
+    "matches": 85,
+    "worldCupWins": 0,
+    "region": "Asia"
+  },
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9a/Jersey_Cricket_Board_logo.png",
+    "name": "Jersey",
+    "ranking": 22,
+    "captain": "Charles Perchard",
+    "matches": 60,
+    "worldCupWins": 0,
+    "region": "Europe"
+  },
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/fc/Italiana.png",
+    "name": "Italy",
+    "ranking": 23,
+    "captain": "Gian Meade",
+    "matches": 50,
+    "worldCupWins": 0,
+    "region": "Europe"
+  },
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/ef/Deutscher_Cricket_Bund_logo.png",
+    "name": "Germany",
+    "ranking": 24,
+    "captain": "Venkatraman Ganesan",
+    "matches": 55,
+    "worldCupWins": 0,
+    "region": "Europe"
+  },
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/1200px-Flag_of_Kenya.svg.png",
+    "name": "Kenya",
+    "ranking": 25,
+    "captain": "Shem Ngoche",
+    "matches": 180,
+    "worldCupWins": 0,
+    "region": "Africa"
+  },
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/72/Uganda_Cricket_Association_logo.png",
+    "name": "Uganda",
+    "ranking": 26,
+    "captain": "Brian Masaba",
+    "matches": 65,
+    "worldCupWins": 0,
+    "region": "Africa"
+  },
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bermuda.svg/1920px-Flag_of_Bermuda.svg.png",
+    "name": "Bermuda",
+    "ranking": 27,
+    "captain": "Delray Rawlins",
+    "matches": 100,
+    "worldCupWins": 0,
+    "region": "Americas"
+  },
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Nigeria_Cricket_Federation.png",
+    "name": "Nigeria",
+    "ranking": 28,
+    "captain": "Sylvester Okpe",
+    "matches": 40,
+    "worldCupWins": 0,
+    "region": "Africa"
+  },
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/91/Malaysia_national_cricket_team_logo.png",
+    "name": "Malaysia",
+    "ranking": 29,
+    "captain": "Ahmad Faiz",
+    "matches": 70,
+    "worldCupWins": 0,
+    "region": "Asia"
+  },
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d4/Singapore_national_cricket_team.png",
+    "name": "Singapore",
+    "ranking": 30,
+    "captain": "Amjad Mahboob",
+    "matches": 65,
+    "worldCupWins": 0,
+    "region": "Asia"
+  },
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/1920px-Flag_of_Canada.svg.png",
+    "name": "Canada",
+    "ranking": 31,
+    "captain": "Saad Bin Zafar",
+    "matches": 140,
+    "worldCupWins": 0,
+    "region": "Americas"
+  },
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Tanzania_Cricket_Association_logo.png",
+    "name": "Tanzania",
+    "ranking": 32,
+    "captain": "Abhik Patwa",
+    "matches": 30,
+    "worldCupWins": 0,
+    "region": "Africa"
+  },
+  {
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/Cricket_Association_of_Thailand_logo.png",
+    "name": "Thailand",
+    "ranking": 33,
+    "captain": "Sorawat Desungnoen",
+    "matches": 25,
+    "worldCupWins": 0,
+    "region": "Asia"
+  }
+]

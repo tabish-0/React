@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Amoura, Ghazipur"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "7307094998"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "contact@raj.com"
+    }
+  ]
